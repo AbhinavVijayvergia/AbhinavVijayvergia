@@ -10,7 +10,7 @@
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/-Abhinav%20Vijayvergia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhinav-vijayvergia/)](https://www.linkedin.com/in/abhinav-vijayvergia/)
-[![GitHub](https://img.shields.io/github/followers/AbhinavVijayvergia?label=follow&style=social)](https://github.com/AbhinavVijayvergia)
+[![GitHub](https://img.shields.io/github/followers/AbhinavVijayvergia?)](https://github.com/AbhinavVijayvergia)
 
 ---
 
