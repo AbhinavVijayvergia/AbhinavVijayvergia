@@ -1,16 +1,34 @@
-## Hi there 👋
+<h2>Hi, I'm Abhinav 👋</h2>
 
-<!--
-**AbhinavVijayvergia/AbhinavVijayvergia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" width="230" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-Here are some ideas to get you started:
+<p>
+  <em>
+    Computer Science Undergraduate<br/>
+    Focused on systems, networking, and security
+  </em>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/-Abhinav%20Vijayvergia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhinav-vijayvergia/)](https://www.linkedin.com/in/abhinav-vijayvergia/)
+[![GitHub](https://img.shields.io/github/followers/AbhinavVijayvergia?label=follow&style=social)](https://github.com/AbhinavVijayvergia)
+
+---
+
+### About Me
+
+I’m a CS undergraduate who enjoys **building systems from first principles** to understand how computers and networks behave in real-world conditions.  
+I focus on **packet-level analysis, monitoring, and security logic**, and prefer learning by building tools rather than relying only on abstractions.
+
+---
+
+### Technical Snapshot
+
+```python
+abhinav = {
+    "role": "CS Undergraduate",
+    "interests": ["systems", "networking", "security"],
+    "languages": ["Python", "Java", "C", "C++"],
+    "core_cs": ["Data Structures", "Operating Systems", "Computer Networks"],
+    "tools": ["Scapy", "Git", "GitHub", "MySQL"],
+    "current_focus": "Network traffic monitoring and intrusion detection systems"
+}
